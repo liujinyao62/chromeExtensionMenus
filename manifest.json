@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "谷歌插件功能清单",
+  "description": "本插件涵盖学习的各chrome API 的功能演示",
+  "version": "1.0"
+}
